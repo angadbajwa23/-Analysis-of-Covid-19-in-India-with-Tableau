@@ -1,4 +1,4 @@
 # Analysis-of-Covid-19-in-India-with-Tableau
 
 
-Download the tablue file tp view or view it at my Tableau Desktop dashboard.
+Download the tableau or view it at https://public.tableau.com/profile/angad.ripudaman.singh.bajwa#!/vizhome/ProjectC_15931623589960/Personalizeddashboard
